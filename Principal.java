@@ -1,6 +1,6 @@
 public class Principal {
 
-    public static void manin(String[] args){
+    public static void main(String[] args){
 
         Carro car = new Carro();
         Carro carAro = new Carro(14);
